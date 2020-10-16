@@ -26,7 +26,5 @@ github:
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-  - title: About
-    url: /about
+  - title: TimerLoop
+    url: https://lorenzolewis.click/TimerLoop
