@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Lorenzo Lewis
-tagline:             my personal landing page
+
 url:                 http://lorenzolewis.click
 
 # Assets
@@ -23,3 +23,10 @@ author:
 version:             2.0.0
 github:
   repo:              https://github.com/poole/poole
+
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+  - title: About
+    url: /about
